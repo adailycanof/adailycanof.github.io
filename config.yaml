@@ -60,11 +60,11 @@ params:
   profileMode:
     enabled: True # needs to be explicitly set
     title: "Hello There! \U0001F44B"
-    subtitle: "This is the blog of an average devops/devsecops enginner **Simon Hill**, I make content on what I do for a living."
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    subtitle: "Welcome to the blog of an everyday DevOps/DevSecOps engineer, **Simon Hill**. Here, I share insights, tips, and stories about my work in the tech industry, focusing on the challenges, solutions, and innovations that come with being a DevOps professional. Whether you're an experienced engineer, an aspiring tech enthusiast, or simply curious about what we do, you'll find content here that reflects my real-world experiences, practical advice, and personal take on all things DevOps and DevSecOps.This blog is where I break down complex concepts, explore industry trends, and dive into the tools and practices that keep modern systems secure and running smoothly. Thanks for stopping by—let's learn and grow together!."
+    imageUrl: ""
+    imageWidth: 360
+    imageHeight: 360
+    imageTitle: 
 #    buttons:
 #      - name: Posts
 #        url: posts
@@ -125,10 +125,10 @@ menu:
       name: Posts
       url: /Posts/
       weight: 20
-    - identifier: Resume
-      name: Resume
-      url: /Resume/
-      weight: 20
+#    - identifier: Resume
+#      name: Resume
+#      url: /Resume/
+#      weight: 20
     - identifier: FTP
       name: FTP
       url: /ftp/
