@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:35847/posts/my-first-post/</loc>
+    <lastmod>2025-01-12T15:04:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35847/posts/</loc>
+    <lastmod>2025-01-12T15:04:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35847/</loc>
+    <lastmod>2025-01-12T15:04:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:35847/resume/resume/</loc>
+  </url><url>
+    <loc>http://localhost:35847/categories/</loc>
+  </url><url>
+    <loc>http://localhost:35847/resume/</loc>
+  </url><url>
+    <loc>http://localhost:35847/tags/</loc>
+  </url>
+</urlset>
