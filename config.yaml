@@ -132,7 +132,7 @@ menu:
     - identifier: FTP
       name: FTP
       url: /ftp/
-      weight: 20
+      weight: 21
     - identifier: Buy my merch
       name: By my merch
       url: https://www.teepublic.com/user/blowfish-stor/
